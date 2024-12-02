@@ -1,0 +1,32 @@
+.banner{
+    background-image: url("../../../assets/bg-shadow.png");
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: black;
+    max-width: 1100px;
+    margin: auto;
+    margin-bottom: 50px;
+    color: aliceblue;
+    
+    
+}
+.playersStyle{
+    /* max-w-[1100px] mx-auto gap-3 grid md:grid-cols-3 */
+    max-width: 1100px;
+    margin: auto;
+    gap: 12px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.newstaller{
+    background-image: url("../../../assets/bg-shadow.png");
+    z-index: 11;
+    position: relative;
+    background-color: aliceblue;
+    
+}

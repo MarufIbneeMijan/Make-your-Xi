@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "picture": "../src/assets/virat-kohli.avif",
+        "price": 1500,
+        "battingHand": "Right-handed",
+        "rating": 9.5,
+        "type":"Batsman"
+    },
+    {
+        "id": 2,
+        "name": "Babar Azam",
+        "picture": "../src/assets/babar-azam.jpg",
+        "price": 1200,
+        "battingHand": "Right-handed",
+        "rating": 9.0,
+        "type":"Batsman"
+    },
+    {
+        "id": 3,
+        "name": "Steve Smith",
+        "picture": "../src/assets/smith.webp",
+        "price": 1400,
+        "battingHand": "Right-handed",
+        "rating": 9.3,
+        "type":"Batsman"
+    },
+    {
+        "id": 4,
+        "name": "Kane Williamson",
+        "picture": "../src/assets/wilminson.jpg",
+        "price": 1300,
+        "battingHand": "Right-handed",
+        "rating": 8.8,
+        "type":"Batsman"
+    },
+    {
+        "id": 5,
+        "name": "AB de Villiers",
+        "picture": "../src/assets/ABD.jpg",
+        "price": 1600,
+        "battingHand": "Right-handed",
+        "rating": 9.7,
+        "type":"Batsman"
+    },
+    {
+        "id": 6,
+        "name": "Rohit Sharma",
+        "picture": "../src/assets/rs.jpg",
+        "price": 1550,
+        "battingHand": "Right-handed",
+        "rating": 9.2,
+        "type":"Batsman"
+    },
+    {
+        "id": 7,
+        "name": "Jos Buttler",
+        "picture": "../src/assets/JB.jpg",
+        "price": 1250,
+        "battingHand": "Right-handed",
+        "rating": 8.9,
+        "type":"Batsman"
+    },
+    {
+        "id": 8,
+        "name": "David Warner",
+        "picture": "../src/assets/DW.jpg",
+        "price": 1450,
+        "battingHand": "Left-handed",
+        "rating": 9.1,
+        "type":"Batsman"
+    },
+    {
+        "id": 9,
+        "name": "Rashid Khan",
+        "picture": "../src/assets/RK.jpg",
+        "price": 1250,
+        "battingHand": "Left-handed",
+        "rating": 9.1,
+        "type":"Bowler"
+    },
+    {
+        "id": 10,
+        "name": "Lord Shanto",
+        "picture": "../src/assets/Original_Doge.jpg",
+        "price": 170,
+        "battingHand": "Left-handed",
+        "rating": 0.0,
+         "type":"All Rounder"
+    },
+    {
+        "id": 11,
+        "name": "Tim Southee",
+        "picture": "../src/assets/tim-southee.avif",
+        "price": 1150,
+        "battingHand": "Left-handed",
+        "rating": 9.1,
+         "type":"Bowler"
+    },
+    {
+        "id": 12,
+        "name": "Trent Boult",
+        "picture": "../src/assets/TB.jpg",
+        "price": 1450,
+        "battingHand": "Left-handed",
+        "rating": 8.1,
+         "type":"Bowler"
+    }
+]
